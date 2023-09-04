@@ -1,0 +1,506 @@
+{
+    "salary_min": 136700.0,
+    "salary_max": 201181.82,
+    "requirement": {
+        "highlighttext": {
+            "count": "34.9%",
+            "init_name": "highlighttext"
+        },
+        "python": {
+            "count": "14.8%",
+            "init_name": "Python"
+        },
+        "web": {
+            "count": "1.2%",
+            "init_name": "web"
+        },
+        "javascript": {
+            "count": "2.3%",
+            "init_name": "JavaScript"
+        },
+        "typescript": {
+            "count": "0.6%",
+            "init_name": "TypeScript"
+        },
+        "c": {
+            "count": "1.0%",
+            "init_name": "C++"
+        },
+        "java": {
+            "count": "3.3%",
+            "init_name": "Java"
+        },
+        "php": {
+            "count": "1.0%",
+            "init_name": "PHP"
+        },
+        "sql": {
+            "count": "3.7%",
+            "init_name": "SQL"
+        },
+        "xamarin": {
+            "count": "0.2%",
+            "init_name": "Xamarin"
+        },
+        "ibm": {
+            "count": "0.2%",
+            "init_name": "IBM"
+        },
+        "ilog": {
+            "count": "0.2%",
+            "init_name": "ILOG"
+        },
+        "scp": {
+            "count": "0.4%",
+            "init_name": "SCP"
+        },
+        "river": {
+            "count": "0.2%",
+            "init_name": "RIVER"
+        },
+        "logic": {
+            "count": "0.2%",
+            "init_name": "LOGIC"
+        },
+        "anylogistix": {
+            "count": "0.2%",
+            "init_name": "anylogistix"
+        },
+        "sap": {
+            "count": "0.2%",
+            "init_name": "SAP"
+        },
+        "apo": {
+            "count": "0.2%",
+            "init_name": "APO"
+        },
+        "jda": {
+            "count": "0.2%",
+            "init_name": "JDA"
+        },
+        "linux": {
+            "count": "1.2%",
+            "init_name": "Linux"
+        },
+        "nginx": {
+            "count": "0.2%",
+            "init_name": "Nginx"
+        },
+        "fastapi": {
+            "count": "1.0%",
+            "init_name": "FastAPI"
+        },
+        "pydantic": {
+            "count": "0.2%",
+            "init_name": "Pydantic"
+        },
+        "graphql": {
+            "count": "0.2%",
+            "init_name": "GraphQL"
+        },
+        "django": {
+            "count": "1.0%",
+            "init_name": "Django"
+        },
+        "selenium": {
+            "count": "0.2%",
+            "init_name": "Selenium"
+        },
+        "webdriver": {
+            "count": "0.2%",
+            "init_name": "Webdriver"
+        },
+        "react": {
+            "count": "0.2%",
+            "init_name": "React"
+        },
+        "redux": {
+            "count": "0.2%",
+            "init_name": "Redux"
+        },
+        "mobx": {
+            "count": "0.2%",
+            "init_name": "MobX"
+        },
+        "effector": {
+            "count": "0.2%",
+            "init_name": "Effector"
+        },
+        "webpack": {
+            "count": "0.2%",
+            "init_name": "Webpack"
+        },
+        "mysql": {
+            "count": "0.4%",
+            "init_name": "MySQL"
+        },
+        "postgres": {
+            "count": "0.4%",
+            "init_name": "Postgres"
+        },
+        "mongo": {
+            "count": "0.2%",
+            "init_name": "Mongo"
+        },
+        "embedded": {
+            "count": "0.2%",
+            "init_name": "embedded"
+        },
+        "docker": {
+            "count": "0.6%",
+            "init_name": "Docker"
+        },
+        "graphana": {
+            "count": "0.2%",
+            "init_name": "Graphana"
+        },
+        "kibana": {
+            "count": "0.2%",
+            "init_name": "Kibana"
+        },
+        "protobuf": {
+            "count": "0.2%",
+            "init_name": "protobuf"
+        },
+        "fastcgi": {
+            "count": "0.2%",
+            "init_name": "FastCGI"
+        },
+        "stl": {
+            "count": "0.4%",
+            "init_name": "STL"
+        },
+        "postgresql": {
+            "count": "1.2%",
+            "init_name": "PostgreSQL"
+        },
+        "orm": {
+            "count": "0.8%",
+            "init_name": "ORM"
+        },
+        "git": {
+            "count": "0.8%",
+            "init_name": "Git"
+        },
+        "apache": {
+            "count": "0.4%",
+            "init_name": "Apache"
+        },
+        "nifi": {
+            "count": "0.2%",
+            "init_name": "NiFi"
+        },
+        "spring": {
+            "count": "0.2%",
+            "init_name": "Spring"
+        },
+        "kotlin": {
+            "count": "0.8%",
+            "init_name": "Kotlin"
+        },
+        "scratch": {
+            "count": "0.4%",
+            "init_name": "Scratch"
+        },
+        "roblox": {
+            "count": "0.4%",
+            "init_name": "Roblox"
+        },
+        "unity": {
+            "count": "0.2%",
+            "init_name": "Unity"
+        },
+        "app": {
+            "count": "0.2%",
+            "init_name": "App"
+        },
+        "inventor": {
+            "count": "0.2%",
+            "init_name": "inventor"
+        },
+        "etl": {
+            "count": "0.4%",
+            "init_name": "ETL"
+        },
+        "data": {
+            "count": "0.6%",
+            "init_name": "Data"
+        },
+        "governance": {
+            "count": "0.2%",
+            "init_name": "Governance"
+        },
+        "scada": {
+            "count": "0.2%",
+            "init_name": "SCADA"
+        },
+        "plc": {
+            "count": "0.2%",
+            "init_name": "PLC"
+        },
+        "cmake": {
+            "count": "0.4%",
+            "init_name": "CMake"
+        },
+        "autotools": {
+            "count": "0.2%",
+            "init_name": "autotools"
+        },
+        "bash": {
+            "count": "0.8%",
+            "init_name": "bash"
+        },
+        "win": {
+            "count": "0.2%",
+            "init_name": "win"
+        },
+        "nix": {
+            "count": "0.2%",
+            "init_name": "nix"
+        },
+        "backend": {
+            "count": "0.2%",
+            "init_name": "backend"
+        },
+        "nestjs": {
+            "count": "0.2%",
+            "init_name": "NestJS"
+        },
+        "node": {
+            "count": "0.2%",
+            "init_name": "Node"
+        },
+        "jango": {
+            "count": "0.2%",
+            "init_name": "jango"
+        },
+        "flask": {
+            "count": "0.4%",
+            "init_name": "Flask"
+        },
+        "ddd": {
+            "count": "0.2%",
+            "init_name": "DDD"
+        },
+        "rest": {
+            "count": "0.6%",
+            "init_name": "REST"
+        },
+        "api": {
+            "count": "0.4%",
+            "init_name": "API"
+        },
+        "middle": {
+            "count": "0.4%",
+            "init_name": "Middle"
+        },
+        "laravel": {
+            "count": "0.2%",
+            "init_name": "Laravel"
+        },
+        "html": {
+            "count": "1.0%",
+            "init_name": "HTML"
+        },
+        "agile": {
+            "count": "0.6%",
+            "init_name": "agile"
+        },
+        "nist": {
+            "count": "0.2%",
+            "init_name": "NIST"
+        },
+        "owasp": {
+            "count": "0.2%",
+            "init_name": "OWASP"
+        },
+        "sqlalchemy": {
+            "count": "0.2%",
+            "init_name": "SQLAlchemy"
+        },
+        "engineer": {
+            "count": "0.4%",
+            "init_name": "Engineer"
+        },
+        "developer": {
+            "count": "0.6%",
+            "init_name": "Developer"
+        },
+        "helm": {
+            "count": "0.2%",
+            "init_name": "Helm"
+        },
+        "kustomize": {
+            "count": "0.2%",
+            "init_name": "Kustomize"
+        },
+        "jsonnet": {
+            "count": "0.2%",
+            "init_name": "jsonnet"
+        },
+        "golang": {
+            "count": "0.2%",
+            "init_name": "Golang"
+        },
+        "openstack": {
+            "count": "0.2%",
+            "init_name": "Openstack"
+        },
+        "lxc": {
+            "count": "0.4%",
+            "init_name": "LXC"
+        },
+        "pipeline": {
+            "count": "0.2%",
+            "init_name": "pipeline"
+        },
+        "kubernetes": {
+            "count": "0.2%",
+            "init_name": "Kubernetes"
+        },
+        "low": {
+            "count": "0.2%",
+            "init_name": "low"
+        },
+        "power": {
+            "count": "0.2%",
+            "init_name": "power"
+        },
+        "multithreading": {
+            "count": "0.2%",
+            "init_name": "multithreading"
+        },
+        "numpy": {
+            "count": "0.2%",
+            "init_name": "numpy"
+        },
+        "scikit": {
+            "count": "0.2%",
+            "init_name": "scikit"
+        },
+        "pandas": {
+            "count": "0.2%",
+            "init_name": "pandas"
+        },
+        "matplotlib": {
+            "count": "0.2%",
+            "init_name": "matplotlib"
+        },
+        "boost": {
+            "count": "0.2%",
+            "init_name": "Boost"
+        },
+        "clickhouse": {
+            "count": "0.6%",
+            "init_name": "ClickHouse"
+        },
+        "postrgresql": {
+            "count": "0.2%",
+            "init_name": "PostrgreSQL"
+        },
+        "dax": {
+            "count": "0.2%",
+            "init_name": "DAX"
+        },
+        "swift": {
+            "count": "0.4%",
+            "init_name": "Swift"
+        },
+        "pytorch": {
+            "count": "0.2%",
+            "init_name": "PyTorch"
+        },
+        "tensorflow": {
+            "count": "0.2%",
+            "init_name": "Tensorflow"
+        },
+        "keras": {
+            "count": "0.2%",
+            "init_name": "Keras"
+        },
+        "senior": {
+            "count": "0.2%",
+            "init_name": "Senior"
+        },
+        "erp": {
+            "count": "0.2%",
+            "init_name": "ERP"
+        },
+        "nprinting": {
+            "count": "0.2%",
+            "init_name": "NPrinting"
+        },
+        "airflow": {
+            "count": "0.2%",
+            "init_name": "Airflow"
+        },
+        "mpp": {
+            "count": "0.2%",
+            "init_name": "MPP"
+        },
+        "studio": {
+            "count": "0.2%",
+            "init_name": "Studio"
+        },
+        "luci": {
+            "count": "0.2%",
+            "init_name": "LuCI"
+        },
+        "lua": {
+            "count": "0.2%",
+            "init_name": "Lua"
+        },
+        "css": {
+            "count": "0.2%",
+            "init_name": "CSS"
+        },
+        "techlead": {
+            "count": "0.2%",
+            "init_name": "TechLead"
+        },
+        "rust": {
+            "count": "0.2%",
+            "init_name": "Rust"
+        },
+        "boot": {
+            "count": "0.2%",
+            "init_name": "Boot"
+        },
+        "arm": {
+            "count": "0.2%",
+            "init_name": "ARM"
+        },
+        "trusted": {
+            "count": "0.2%",
+            "init_name": "Trusted"
+        },
+        "net": {
+            "count": "0.2%",
+            "init_name": "NET"
+        },
+        "frontend": {
+            "count": "0.2%",
+            "init_name": "Frontend"
+        },
+        "windows": {
+            "count": "0.2%",
+            "init_name": "Windows"
+        },
+        "macos": {
+            "count": "0.2%",
+            "init_name": "MacOS"
+        },
+        "scripting": {
+            "count": "0.4%",
+            "init_name": "scripting"
+        },
+        "powershell": {
+            "count": "0.2%",
+            "init_name": "powershell"
+        },
+        "teamleada": {
+            "count": "0.2%",
+            "init_name": "TeamLeada"
+        }
+    }
+}
